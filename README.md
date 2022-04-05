@@ -1,1 +1,1 @@
-# Animalandia-responsive
+# animalandia
